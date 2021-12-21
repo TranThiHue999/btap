@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Btap2112", "Btap2112\Btap2112.csproj", "{3141BC6C-1756-4D9F-8965-BAB5D868F518}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3141BC6C-1756-4D9F-8965-BAB5D868F518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3141BC6C-1756-4D9F-8965-BAB5D868F518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3141BC6C-1756-4D9F-8965-BAB5D868F518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3141BC6C-1756-4D9F-8965-BAB5D868F518}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A2CE334-4DB7-4477-9087-800BC1E0D76A}
+	EndGlobalSection
+EndGlobal
